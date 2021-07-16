@@ -1,2 +1,2 @@
 # Market Basket Analysis
- Market Basket Analysis Instakart
+ Market Basket Analysis Instacart
